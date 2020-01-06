@@ -8,7 +8,7 @@ $line_url = 'https://lin.ee/BOseZlV';
 
 
 $kousiki_lineURL = 'http://nav.cx/cLEulHf';
-$kousiki_lineID = '@occ3158u';
+$kousiki_lineID = '@00000';
 
 
 session_start();
